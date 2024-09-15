@@ -1,4 +1,6 @@
-# 📊 Python for Data Analytics & Data Science
+<h1 align="center">📊 Python for Data Analytics & Data Science</h2>
+
+![bannner](banner-repo-github-da.png)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Data Science](https://img.shields.io/badge/Data%20Science-Pandas%2C%20NumPy%2C%20SciPy-brightgreen.svg) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn%2C%20TensorFlow-orange.svg) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
