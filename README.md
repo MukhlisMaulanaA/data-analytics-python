@@ -22,7 +22,9 @@ The project is built around practical, project-based learning, with a focus on c
 ├── 📁 summary/                         # Results of analyze
 ├── 📁 visualizations/                  # Generated plots and charts
 ├── 📄 assignment.ipynb                 # Assignment RevoU Mini Course
+├── 📄 banner-repo-github.png           # Banner for Repository
 ├── 📄 car-price.ipynb                  # Predict car price using ARIMA
+├── 📄 data-cleansing.ipynb             # Clean data for Power BI Visualization
 ├── 📄 index.ipynb                      # First step Learning
 ├── 📄 market-basket-analysis.ipynb     # Market Basket Analysis
 ├── 📄 user-retention.ipynb             # User Retention using Cohort
